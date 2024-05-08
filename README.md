@@ -14,6 +14,11 @@ Disclaimer: Do not use the private key shown in this demo; it's public, stranger
 - Color settings (`--color`/`-c`): Enable/Disable colors
 - Dictionary support: If no patterns are provided as arguments, patterns are read from the standard input
 
+## Installation
+```
+cargo install --git https://github.com/chand1012/ethaddrgen.git
+```
+
 ## Usage
 Download the latest release [here](https://github.com/Limeth/ethaddrgen/releases).
 To display usage, run `ethaddrgen -h` or `ethaddrgen --help` for a longer version.
